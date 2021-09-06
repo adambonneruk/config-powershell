@@ -1,5 +1,5 @@
 # Config-PowerShell
-My Windows PowerShell configuration, including posh-git and useful aliases, I spend a lot of time in the Windows Terminal so having this configuration (publicly) available for different machines is useful.
+My Windows PowerShell configuration, including posh-git and useful functions/aliases, I spend a lot of time in the Windows Terminal so having this configuration (publicly) available for different machines is useful.
 
 ## Git Setup
 ```ps
